@@ -1,6 +1,9 @@
 """
     This program sends a message to a queue on the RabbitMQ server.
 
+    Name: Deanna Clayton
+    Date: 1-30-23
+
     Author: Denise Case
     Date: January 14, 2023
 
@@ -44,4 +47,4 @@ def send_message(host: str, queue_name: str, message: str):
 # without executing the code below.
 # If this is the program being run, then execute the code below
 if __name__ == "__main__":
-    send_message("llllocalhost","hello","Hello World!")
+    send_message("localhost","hello","This is Deanna!")

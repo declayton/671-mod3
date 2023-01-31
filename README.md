@@ -94,4 +94,4 @@ Each of the version 2 programs include an error as well.
 
 ## Multiple Terminals
 
-![Mac Example](screenshot.png)
+![Screenshot](Screenshot_assignment3.1.png "My Screenshot of Multiple Terminals")
